@@ -5,19 +5,40 @@ Este repo contiene un apunte de:
 - Ensamble de Modelos.
 - Redes Neuronales.
 
+## Árboles.
+- ID3. 
+- C4.5.
+- Random Forest.
 
-## **Redes Neuronales**.
+## Ensamble de Modelos.
 
-- **Redes Neuronales Superficiales**:
-  - Perceptrón Simple.
-  - Perceptrón Multicapa.
-  - Redes SOM.
-- **Redes Neuronales Profundas**:
-  - Autoencoders.
-    - Restricted Boltzmann Machine.
-    - Deep Belief Nets.
-  - Redes Convolucionales.
-  - Redes Recurrentes.
-  - Redes Neuronales de Tensores Recursivas.
-  - Deep Fake Nets.
-  - Generative Adversarial Networks (GAN).
+### Ensambles Homogéneos
+- Bagging.
+- Boosting.
+  - AdaBoost.
+  - Gradient Boost.
+  - XGBoost: eXtreme Gradient Boosting.
+
+### Ensambles Híbridos
+- Voting.
+- Stacking.
+- Cascading.
+
+
+## Redes Neuronales.
+
+### Redes Neuronales Superficiales
+
+- Perceptrón Simple.
+- Perceptrón Multicapa.
+- Redes SOM.
+
+### Redes Neuronales Profundas
+- Autoencoders.
+  - Restricted Boltzmann Machine.
+  - Deep Belief Nets.
+- Redes Convolucionales.
+- Redes Recurrentes.
+- Redes Neuronales de Tensores Recursivas.
+- Deep Fake Nets.
+- Generative Adversarial Networks (GAN).
