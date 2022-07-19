@@ -33,6 +33,7 @@ Este repo contiene un apunte de:
 - Perceptrón Multicapa.
 - Redes SOM.
 
+
 ### Redes Neuronales Profundas
 - Autoencoders.
   - Restricted Boltzmann Machine.
@@ -42,3 +43,6 @@ Este repo contiene un apunte de:
 - Redes Neuronales de Tensores Recursivas.
 - Deep Fake Nets.
 - Generative Adversarial Networks (GAN).
+
+
+[Link de los Google Colaboratory](https://drive.google.com/drive/folders/1YSt8Rcyqpsh58Min5f7oDxGxtycIKT5R?usp=sharing).
