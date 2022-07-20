@@ -4,6 +4,7 @@ Este repo contiene un apunte de:
 - Árboles.
 - Ensamble de Modelos.
 - Redes Neuronales.
+- Support Vector Machine.
 
 ## Árboles.
 - ID3. 
@@ -33,7 +34,6 @@ Este repo contiene un apunte de:
 - Perceptrón Multicapa.
 - Redes SOM.
 
-
 ### Redes Neuronales Profundas
 - Autoencoders.
   - Restricted Boltzmann Machine.
@@ -43,6 +43,12 @@ Este repo contiene un apunte de:
 - Redes Neuronales de Tensores Recursivas.
 - Deep Fake Nets.
 - Generative Adversarial Networks (GAN).
+
+
+## Support Vector Machine.
+
+- Clasificador de Margen Máximo (Maximal Margin Classifier).
+- Soft Margin Classifier - Support Vector Classifier.
 
 
 [Link de los Google Colaboratory](https://drive.google.com/drive/folders/1YSt8Rcyqpsh58Min5f7oDxGxtycIKT5R?usp=sharing).
