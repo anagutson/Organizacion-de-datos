@@ -54,6 +54,9 @@ Este repo contiene un apunte de:
 ## Reducción de Dimensionalidad.
 
 - Principal Component Analysis (PCA).
+  - Técnicas de análisis de componentes:
+    - Porcentaje de Variabilidad Explicada.
+    - Técnica del Bastión Partido. 
 - Multidimensional Scaling (MDS): Clásica o Métrica - Principal Coordinate Analysis (PCoA).
 - T-Distributed Stochastic Neighbor Embedding (t-SNE).
 - ISOMAP.
