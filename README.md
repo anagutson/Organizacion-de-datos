@@ -5,6 +5,7 @@ Este repo contiene un apunte de:
 - Ensamble de Modelos.
 - Redes Neuronales.
 - Support Vector Machine.
+- Reducción de Dimensionalidad.
 
 ## Árboles.
 - ID3. 
@@ -49,6 +50,13 @@ Este repo contiene un apunte de:
 
 - Clasificador de Margen Máximo (Maximal Margin Classifier).
 - Soft Margin Classifier - Support Vector Classifier.
+
+## Reducción de Dimensionalidad.
+
+- Principal Component Analysis (PCA).
+- Multidimensional Scaling (MDS): Clásica o Métrica - Principal Coordinate Analysis (PCoA).
+- T-Distributed Stochastic Neighbor Embedding (t-SNE).
+- ISOMAP.
 
 
 [Link de los Google Colaboratory](https://drive.google.com/drive/folders/1YSt8Rcyqpsh58Min5f7oDxGxtycIKT5R?usp=sharing).
