@@ -12,9 +12,15 @@ Este repo contiene un apunte de:
 
 
 ## Árboles.
-- ID3. 
-- C4.5.
-- Random Forest.
+
+### Iterative Dichotomiser 3 (ID3)
+- Criterios:
+  - Entropía.
+  - Gini.
+  
+### C4.5.
+
+### Random Forest.
 
 
 ## Ensamble de Modelos.
