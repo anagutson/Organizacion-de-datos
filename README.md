@@ -8,7 +8,8 @@ Este repo contiene un apunte de:
 - Reducción de Dimensionalidad.
 - Algoritmos Genéticos.
 
-> Se recomienda fuertemente leerlos directamente de Google Colaboratory, ya que Github no presenta un índice de temas por el cual navegar.  
+> Se recomienda fuertemente leerlos directamente de Google Colaboratory, ya que Github no presenta un índice de temas por el cual navegar:  [Link de los Google Colaboratory](https://drive.google.com/drive/folders/1YSt8Rcyqpsh58Min5f7oDxGxtycIKT5R?usp=sharing).
+
 
 ## Árboles.
 - ID3. 
@@ -86,6 +87,3 @@ Este repo contiene un apunte de:
 
 
 ## Algoritmos Genéticos.
-
-
-[Link de los Google Colaboratory](https://drive.google.com/drive/folders/1YSt8Rcyqpsh58Min5f7oDxGxtycIKT5R?usp=sharing).
