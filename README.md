@@ -87,3 +87,11 @@ Este repo contiene un apunte de:
 
 
 ## Algoritmos Genéticos.
+
+- Operadores.
+  - Selección.
+  - Cruce.
+  - Mutación.
+
+
+__________________________________________
